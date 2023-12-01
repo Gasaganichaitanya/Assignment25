@@ -1,0 +1,10 @@
+D:\mphasis\assignments\Day20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\mphasis\assignments\Day20\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\mphasis\assignments\Day20\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\mphasis\assignments\Day20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\mphasis\assignments\Day20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\mphasis\assignments\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\mphasis\assignments\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\mphasis\assignments\Day20\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\mphasis\assignments\Day20\MainApp\MainApp\obj\Debug\MainApp.pdb

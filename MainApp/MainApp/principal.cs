@@ -20,8 +20,8 @@ namespace MainApp
         }
         public void DisplayClass()
         {
-            Console.WriteLine("Project Id:\t" + Secname);
-            Console.WriteLine("Project Name:\t" + Strength);
+            Console.WriteLine("Section Name:\t" + Secname);
+            Console.WriteLine("Strength:\t" + Strength);
         }
     }
 }

@@ -23,9 +23,9 @@ namespace MySharedLibrary
         }
         public void Display()
         {
-            Console.WriteLine("Id of Employee:\t" + Id);
-            Console.WriteLine("Name of Employee:\t" + Name);
-            Console.WriteLine("Salary:\t" + Grade);
+            Console.WriteLine("Student Id :\t" + Id);
+            Console.WriteLine("Student Name :\t" + Name);
+            Console.WriteLine("Grade:\t" + Grade);
 
         }
     }
